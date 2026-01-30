@@ -1,8 +1,4 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
-library;
+/// A clean, extensible data generator package for tests, demos, and mock data.
+library mocky;
 
-export 'src/mocky_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/mocky.dart';
