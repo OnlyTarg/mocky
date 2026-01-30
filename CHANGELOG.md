@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Added topics for better discoverability on pub.dev
+
 ## 0.1.0
 
 - Initial release

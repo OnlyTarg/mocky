@@ -1,8 +1,14 @@
 name: mocky
 description: A clean, extensible data generator for tests, demos, and mock data. Supports multiple locales (Ukrainian, US) with words, names, phone numbers, and emails.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/onlytarg/mocky
 homepage: https://github.com/onlytarg/mocky
+
+topics:
+  - testing
+  - mock
+  - fake-data
+  - generator
 
 environment:
   sdk: ^3.5.4
